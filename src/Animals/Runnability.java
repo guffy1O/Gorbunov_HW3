@@ -1,4 +1,6 @@
 package Animals;
 
-public interface Runnability {
+public interface Runnability
+{
+        void run(int distance);
 }

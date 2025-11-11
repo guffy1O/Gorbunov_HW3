@@ -1,4 +1,6 @@
 package Animals;
 
-public interface Swimmability {
+public interface Swimmability
+{
+        void swim(int distance);
 }
